@@ -43,9 +43,9 @@ body{
     cursor:pointer;
     border-radius: 50%;
 }
-button #next{
+button#next{
     right:-1.1em;
 }
-button #prev {
+button#prev {
     left:-1.1em;
 }
